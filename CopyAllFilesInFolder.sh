@@ -1,5 +1,11 @@
 #!/bin/bash
 
+############################
+# Copy All Files in Folder
+# NTU-Moldex3D (Kavy)
+# Date : 2015/12/24 
+############################
+
 # File Date
 Inport=$1
 Destination=$2
